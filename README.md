@@ -1,5 +1,5 @@
 
-# Documentation de l'API de Gestion des Sentiments et Clients
+# Documentation de l'API d'analyse des Sentiments et Clients
 
 Cette documentation décrit les points d'accès (endpoints) disponibles pour interagir avec l'API de gestion des sentiments et des clients.
 
