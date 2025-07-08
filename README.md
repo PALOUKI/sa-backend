@@ -268,7 +268,7 @@ Met à jour les informations (email et téléphone) d'un client existant par son
 
 ```json
 {
-  "id": 1, // L'ID dans le corps DOIT correspondre à l'ID du chemin
+  "id": 1, 
   "email": "updated.client@example.com",
   "telephone": "99887766"
 }
