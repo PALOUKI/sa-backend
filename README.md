@@ -152,7 +152,6 @@ Met à jour un sentiment existant par son ID. Le texte et le type de sentiment p
   "texte": "Mon opinion a changé, c'est désormais bon."
   // Le champ "type" n'est pas nécessaire ici car il est dérivé du texte
   // Le champ "client" n'est pas nécessaire ici pour la mise à jour du sentiment,
-  // mais si votre entité exige un client complet, il faudra le fournir.
 }
 ```
 
